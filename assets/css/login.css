@@ -1,0 +1,28 @@
+.login i{
+    padding: 12px;
+    height: 80px;
+    background-color:darksalmon;
+}
+.username input{
+  width: 215px;
+  height: 25px;
+}
+.username button{
+    border-color:lightcoral ;
+    width: 225px;
+    height: 35px;
+    background-color:lightcoral;
+}
+.login{
+    height: 7cm;
+    width: 8cm;
+    background-color: cyan;
+    text-align: center;
+    
+}
+body{
+    background-color: cornflowerblue;
+    margin: 0px;
+    margin-top: 15%;
+    margin-left: 40%;
+}

@@ -1,0 +1,8 @@
+#form{
+    width: 10cm;
+    height: 15cm;
+    background-color:mediumslateblue;
+}
+#form .information input{
+    background-color:palegreen;
+}
